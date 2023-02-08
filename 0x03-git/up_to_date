@@ -1,3 +1,2 @@
 git fetch origin
-git checkout -b update_script origin/update_script
 git merge master
